@@ -51,7 +51,20 @@ export const licenseConfig: LicenseConfig = {
 };
 
 export const projectConfig: Project[] = [
-    // Add your projects here
+    {
+    name: 'XiZi JAVA大师超级智能体',
+    cover: '/assets/Motues.jpg',
+    url: 'https://github.com/kingaaabbb/xz-ai-agent',
+    description: '基于 Spring Boot 3 +⁠ Spring AI + RAG + Tool Calling + M‌CP 的企业级 AI JAVA 大师智能体',
+    tags: ['JAVA', 'SpringAI']  // 可选
+    },
+    {
+    name: 'XiZi 电商查库',
+    cover: '/assets/Motues.jpg',
+    url: 'https://github.com/kingaaabbb/xz-shopkeeper-agent',
+    description: '「电商查库」是一个面向企业数据分析场景的智能体项目。它要解决的问题就是不用手写 SQL，也能像聊天一样从数据仓库里获取想要的分析结果。',
+    tags: ['FastApi', 'Langchain']  // 可选
+    }
 ]
 
 export const friendLinkConfig: FriendLink[] = [
