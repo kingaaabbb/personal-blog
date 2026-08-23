@@ -4,6 +4,7 @@ const translation: Translation = {
     header: {
         home: "Home",
         archive: "Archive",
+        projects: "Projects",
         about: "About",
         friends: "Friends",
     },
@@ -11,12 +12,14 @@ const translation: Translation = {
         title: {
             home: "Welcome to Momo's Blog",
             archive: "Archive",
+            projects: "Projects",
             about: "About",
             friends: "Friends",
         },
         subTitle: {
             home: "Life is colorful!",
             archive: "Total of {count} articles",
+            projects: "My personal works",
             about: "A minimalist blog template",
             friends: "Interesting Souls",
         }
