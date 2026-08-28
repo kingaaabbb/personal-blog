@@ -4,7 +4,7 @@ pubDate: 2026-08-026
 description: Dify的安装以及使用
 category: Dify学习
 image: ""
-draft: true
+draft: false
 slugId: XiZi/dify-learn
 ---
 
