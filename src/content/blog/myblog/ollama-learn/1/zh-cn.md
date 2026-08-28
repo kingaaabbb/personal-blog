@@ -21,8 +21,8 @@ slugId: XiZi/myblog/ollama-learn
 
 
 ## 一、Ollama下载
-
-  下载地址: (https://ollama.com/download)，支持macOS,Linux和Windows系统
+  支持macOS,Linux和Windows系统
+  下载地址: (https://ollama.com/download)
 
 
 ## 二、下载模型
